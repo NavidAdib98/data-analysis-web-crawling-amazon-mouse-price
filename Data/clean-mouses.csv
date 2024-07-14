@@ -1,0 +1,162 @@
+,brand,movementDetectionTechnology,wireless,usb,bluetooth,ergonomic,portable,soundless,led_ligths,rechargeable,lightweight,programmable_button,weight,price,priceCategory
+0,logitech,optical,False,True,False,False,False,False,False,False,False,False,109.0,269.0,low
+1,hp,optical,False,True,False,False,False,False,False,False,False,False,90.0,349.0,low
+2,quantum,optical,False,True,False,True,False,True,False,False,False,False,200.0,149.0,low
+3,razer,optical,False,False,False,False,False,False,False,False,True,True,60.9,1685.0,high
+4,zebronics,optical,True,True,False,False,False,False,False,False,False,False,900.0,139.0,low
+5,hp,optical,True,True,False,True,False,False,False,False,True,False,129.0,599.0,low
+6,redgear,optical,False,False,False,False,False,False,False,False,True,False,200.0,349.0,low
+7,zebronics,optical,True,True,False,False,False,False,False,False,True,False,120.0,399.0,low
+8,zebronics,optical,True,True,False,False,False,False,False,False,False,False,50.0,399.0,low
+9,hp,optical,True,True,False,True,False,False,False,False,False,False,50.0,449.0,low
+10,hp,optical,False,True,False,False,False,False,False,False,False,False,90.0,349.0,low
+11,redgear,optical,False,False,False,False,False,False,False,False,False,False,125.0,599.0,low
+12,portronics,optical,False,False,False,False,False,False,False,False,False,False,90.0,249.0,low
+13,logitech,optical,True,True,False,False,False,False,False,False,False,False,91.0,1295.0,high
+14,lenovo,optical,False,True,False,False,False,False,False,False,False,False,150.0,999.0,high
+15,zebronics,optical,False,False,False,False,False,False,False,False,False,False,53.0,139.0,low
+16,ant esports,optical,False,True,False,True,False,False,False,False,False,False,74.0,299.0,low
+17,hp,optical,True,False,False,False,False,False,False,False,False,False,60.0,699.0,high
+18,amazon basics,optical,True,True,False,True,False,False,False,False,True,False,115.0,499.0,low
+19,portronics,optical,True,True,False,False,False,False,False,False,False,False,80.0,279.0,low
+20,dragonwar,laser,False,True,False,True,False,False,False,False,False,False,175.0,399.0,low
+21,zebronics,optical,True,True,False,False,False,False,False,False,True,False,50.0,399.0,low
+22,logitech,optical,True,True,False,False,False,False,False,False,False,False,91.0,1195.0,high
+23,wings,optical,False,True,False,True,False,False,True,False,False,False,150.0,499.0,low
+24,logitech g,optical,False,True,False,False,False,False,False,False,True,True,89.0,1495.0,high
+25,logitech,optical,True,False,False,False,False,False,False,False,False,False,86.0,799.0,high
+26,zebronics,optical,False,True,False,True,False,False,True,False,False,False,170.0,489.0,low
+27,hp,optical,True,True,False,True,False,False,False,False,False,False,153.0,1499.0,high
+28,entwino,optical,False,True,False,True,False,False,True,False,False,False,150.0,199.0,low
+29,portronics,optical,True,True,False,False,False,False,False,True,False,False,60.0,679.0,high
+30,lenovo,optical,True,True,False,True,False,False,False,False,False,False,84.0,628.0,high
+31,portronics,optical,True,True,False,True,False,True,False,False,False,False,54.0,390.0,low
+32,portronics,optical,False,True,False,False,False,False,False,False,False,False,100.0,142.0,low
+33,logitech,optical,True,True,False,False,False,True,False,False,False,False,75.0,749.0,high
+34,portronics,optical,True,True,False,True,False,False,False,False,False,False,190.0,389.0,low
+35,iball,optical,False,True,False,False,False,False,False,False,False,False,69.0,261.0,low
+36,hp,optical,True,False,False,True,False,False,False,False,False,False,70.0,850.0,high
+37,logitech g,optical,False,True,False,False,False,False,False,False,True,True,144.0,1995.0,high
+38,logitech,optical,True,False,False,False,False,False,False,False,False,False,83.9,799.0,high
+39,hp,optical,True,False,False,True,False,False,False,False,False,False,54.4,999.0,high
+40,lenovo,optical,True,False,False,False,True,True,False,False,False,False,61.0,1479.0,high
+41,hp,optical,False,True,False,False,False,False,False,False,False,False,140.0,499.0,low
+42,asus,optical,True,False,False,True,False,False,False,False,False,False,73.0,599.0,low
+43,logitech,optical,True,False,False,False,False,False,False,False,False,False,59.9,699.0,high
+44,hp,optical,True,False,False,False,False,False,False,False,False,False,110.0,715.0,high
+45,hp,optical,True,True,False,True,False,False,False,False,False,False,200.0,715.0,high
+46,logitech,optical,True,True,False,False,False,False,False,False,False,False,77.0,749.0,high
+47,logitech,optical,False,True,False,False,False,False,False,False,False,False,82.0,358.0,low
+48,zebronics,optical,False,True,False,False,False,False,False,False,False,False,78.0,299.0,low
+49,ant esports,optical,False,True,False,False,False,False,True,False,True,True,100.0,327.0,low
+50,rpm euro games,optical,True,True,False,False,False,True,True,True,False,False,96.0,649.0,high
+51,zebronics,optical,True,False,False,False,False,False,False,False,False,False,190.0,329.0,low
+52,dell,optical,True,False,False,False,False,False,False,False,False,False,160.0,1299.0,high
+53,amkette,optical,True,False,False,True,False,True,False,False,False,False,50.0,331.0,low
+54,logitech,optical,True,True,False,False,True,True,False,False,False,False,100.0,1594.0,high
+55,amkette,optical,True,False,False,True,False,True,False,False,False,False,50.0,349.0,low
+56,lenovo,optical,True,True,False,True,False,False,False,False,False,False,82.0,499.0,low
+57,verilux,optical,True,True,False,False,False,True,False,True,False,False,122.0,749.0,high
+58,ambrane,optical,True,True,False,False,True,True,False,False,True,False,55.0,299.0,low
+59,logitech,optical,True,True,False,False,True,True,False,False,False,False,100.0,1595.0,high
+60,amazon basics,optical,True,True,False,False,False,False,False,False,False,False,68.0,529.0,low
+61,logitech,optical,True,True,False,False,False,False,False,False,False,False,77.0,699.0,high
+62,ant esports,optical,False,True,False,True,False,False,True,False,False,True,340.0,399.0,low
+63,logitech,optical,True,True,False,False,False,False,False,False,False,False,77.0,749.0,high
+64,dell,optical,True,False,False,False,False,False,False,False,False,False,160.0,1529.0,high
+65,hp,optical,True,True,False,False,False,False,False,False,False,False,50.0,899.0,high
+66,lenovo,laser,True,True,False,True,False,False,False,False,False,False,60.0,789.0,high
+67,logitech,optical,True,True,False,False,False,True,False,False,False,False,75.0,749.0,high
+68,offbeat,optical,True,False,False,True,True,True,True,True,False,False,105.0,1099.0,high
+69,logitech,optical,True,False,False,False,True,True,False,False,False,False,100.0,1595.0,high
+70,asus,optical,False,True,False,True,False,False,False,False,True,True,84.0,1249.0,high
+71,dell,optical,True,True,False,False,False,False,False,False,False,False,30.0,799.0,high
+72,lenovo,optical,True,True,False,True,True,False,False,False,True,False,65.0,949.0,high
+73,coconut,optical,True,False,False,True,False,False,False,True,False,False,70.0,599.0,low
+74,hp,optical,True,True,False,False,False,False,False,False,False,False,50.0,1099.0,high
+75,portronics,optical,True,True,False,True,False,False,False,False,False,False,66.0,359.0,low
+76,amkette,optical,False,True,False,False,False,False,True,False,False,False,130.0,499.0,low
+77,logitech,optical,True,True,False,False,True,True,False,False,False,False,60.0,1595.0,high
+78,iclever,optical,True,True,False,True,False,False,False,False,False,False,140.0,1899.0,high
+79,lenovo,optical,True,True,False,True,True,False,False,False,True,False,65.0,949.0,high
+80,offbeat,"optical, laser",True,False,False,False,False,False,False,True,False,False,125.0,899.0,high
+81,zebronics,laser,True,True,False,False,False,True,False,False,True,False,50.0,619.0,high
+82,hp,optical,False,True,False,False,False,False,False,False,False,False,100.0,260.0,low
+83,zinq technologies,optical,True,True,False,True,False,False,False,False,True,False,50.0,279.0,low
+84,ant esports,optical,False,True,False,False,False,False,False,False,False,False,136.0,698.0,high
+85,logitech g,optical,False,False,False,False,False,False,False,False,True,True,122.0,3995.0,high
+86,logitech,optical,True,False,False,False,True,True,False,False,False,False,100.0,1645.0,high
+87,portronics,optical,True,True,False,True,False,False,False,False,False,False,66.0,379.0,low
+88,dell,optical,False,True,False,False,False,False,False,False,False,False,140.0,299.0,low
+89,razer,optical,False,False,False,True,False,False,False,False,False,False,96.0,1349.0,high
+90,hp,optical,True,True,False,False,False,False,False,False,False,False,94.0,939.0,high
+91,endefo,"optical, laser",True,False,False,True,True,True,False,False,True,False,75.0,285.0,low
+92,logitech,optical,True,True,False,False,False,False,False,False,False,False,68.0,595.0,low
+93,razer,optical,False,False,False,False,False,False,False,False,True,True,60.9,1685.0,high
+94,dell,optical,True,True,False,False,False,False,False,False,False,False,120.0,249.0,low
+95,logitech,optical,True,True,False,False,True,True,False,False,False,False,60.0,1489.0,high
+96,lenovo,optical,True,True,False,True,True,False,False,False,True,False,65.0,949.0,high
+97,ant esports,optical,False,True,False,True,False,False,False,False,False,False,114.0,310.0,low
+98,logitech g,optical,False,False,False,False,False,False,False,False,False,True,85.0,1495.0,high
+99,hp,optical,False,True,False,False,False,False,False,False,False,False,140.0,495.0,low
+100,hp,optical,True,False,False,False,False,False,False,False,False,False,110.0,649.0,high
+101,logitech,optical,True,True,False,False,True,True,False,False,False,False,100.0,1594.0,high
+102,lenovo,laser,True,True,False,True,False,False,False,False,False,False,60.0,745.0,high
+103,hp,optical,True,False,False,False,False,False,False,False,False,True,78.0,1498.0,high
+104,kitech,optical,False,True,False,True,False,False,False,False,False,False,100.0,145.0,low
+105,logitech,optical,True,True,False,False,False,False,False,False,False,False,110.0,550.0,low
+106,logitech,optical,True,True,False,False,False,False,False,False,False,False,75.0,1090.0,high
+107,hp,laser,True,True,False,True,True,False,False,False,False,False,70.0,1335.0,high
+108,hp,optical,True,False,False,True,False,False,False,False,False,False,70.0,759.0,high
+109,lenovo,optical,True,True,False,True,False,False,False,False,False,False,84.0,620.0,high
+110,logitech,optical,False,True,False,False,False,False,False,False,False,False,82.0,355.0,low
+111,hp,optical,False,True,False,False,False,False,False,False,False,False,90.0,250.0,low
+112,logitech,optical,True,False,False,False,True,True,False,False,False,False,100.0,1594.0,high
+113,amazon basics,optical,True,True,False,False,False,False,False,False,False,False,68.0,449.0,low
+114,elevn,optical,True,False,False,True,False,False,False,False,False,False,130.0,499.0,low
+115,logitech,optical,True,False,False,False,True,True,False,False,False,False,100.0,1422.0,high
+116,portronics,optical,True,True,False,True,False,False,False,False,False,False,66.0,355.0,low
+117,hp,optical,False,True,False,False,False,False,False,False,False,False,100.0,289.0,low
+118,lenovo,optical,True,True,False,True,True,False,False,False,True,False,65.0,879.0,high
+119,portronics,optical,True,True,False,True,False,True,False,False,False,False,54.0,329.0,low
+120,hp,optical,True,True,False,False,False,False,False,False,False,False,110.0,649.0,high
+121,technotech,optical,False,True,False,False,False,False,False,False,False,False,27.0,141.0,low
+122,iclever,optical,True,True,False,True,False,False,False,False,False,False,140.0,1750.0,high
+123,dell,laser,False,False,False,False,False,False,False,False,False,False,140.0,895.0,high
+124,generic,optical,False,True,False,False,True,False,False,False,False,False,300.0,115.0,low
+125,verilux,optical,True,True,False,True,True,True,True,True,False,False,83.8,665.0,high
+126,hp,optical,True,False,False,True,False,False,False,False,False,False,70.0,594.0,low
+127,perixx,trackball,False,False,False,True,False,False,False,False,False,False,145.0,1499.0,high
+128,razer,optical,True,False,False,False,False,False,False,False,False,True,83.0,3799.0,high
+129,logitech,optical,True,True,False,False,False,False,False,False,False,False,91.0,1395.0,high
+130,cosmic byte,optical,True,False,False,True,False,False,True,True,True,False,89.0,2999.0,high
+131,logitech,optical,True,True,False,False,False,False,False,False,False,False,100.0,1195.0,high
+132,lenovo,optical,False,True,False,True,False,False,False,False,True,False,90.7,839.0,high
+133,zebronics,optical,True,True,False,False,False,False,False,False,False,False,1500.0,200.0,low
+134,hp,optical,True,True,False,False,False,False,False,False,False,False,150.0,1229.0,high
+135,asus,optical,True,False,False,True,False,False,False,False,False,False,73.0,409.0,low
+136,portronics,optical,False,True,False,False,False,False,False,False,False,False,20.0,229.0,low
+137,archer tech lab,optical,False,False,False,True,False,False,False,False,False,False,86.0,999.0,high
+138,lenovo,optical,True,True,False,True,True,False,False,False,True,False,65.0,974.0,high
+139,arctic fox,optical,False,True,False,True,False,False,True,False,False,False,110.0,245.0,low
+140,ikis,optical,False,True,False,False,False,False,False,False,False,False,400.0,125.0,low
+141,hp,optical,False,True,False,False,False,False,False,False,False,False,100.0,590.0,low
+142,quantam,optical,False,True,False,True,False,False,False,False,False,False,300.0,210.0,low
+143,iball,optical,False,True,False,True,False,False,False,False,False,False,91.0,291.0,low
+144,verilux,optical,True,True,False,True,False,False,False,False,False,False,150.0,1004.0,high
+145,amazon basics,optical,False,True,False,True,False,False,False,False,False,False,90.0,299.0,low
+146,logitech,optical,False,True,False,False,False,False,False,False,False,False,113.0,174.0,low
+147,logitech,optical,True,False,False,True,False,False,False,False,False,False,101.0,2795.0,high
+148,quantum,radio frequency,True,True,False,False,False,True,False,False,False,False,100.0,399.0,low
+149,zysk,optical,False,True,False,False,False,True,False,False,False,False,40.0,239.0,low
+150,lenovo,laser,True,False,False,False,False,False,False,False,False,False,160.0,633.0,high
+151,portronics,optical,True,True,False,True,False,False,False,False,False,False,50.0,339.0,low
+152,hp,optical,False,True,False,False,False,False,False,False,False,False,113.0,449.0,low
+153,quantum,optical,False,True,False,True,False,False,False,False,False,False,73.0,190.0,low
+154,portronics,optical,True,True,False,True,False,True,False,False,False,False,54.0,329.0,low
+155,dell,optical,False,True,False,False,False,False,False,False,False,False,130.0,389.0,low
+156,verilux,optical,True,True,False,True,False,True,False,True,False,False,141.0,1101.0,high
+157,ant esports,optical,False,True,False,True,False,False,True,False,False,True,100.0,362.0,low
+158,zebronics,optical,False,True,False,True,False,False,False,False,False,False,57.0,150.0,low
+159,generic,optical,False,True,False,False,False,False,False,False,False,False,50.0,120.0,low
+160,live tech,optical,False,False,False,True,False,False,True,False,False,False,150.0,564.0,low

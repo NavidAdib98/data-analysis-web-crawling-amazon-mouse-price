@@ -1,0 +1,22 @@
+,result,model,metric
+0,0.7952380952380953,logisticregression,accuracy
+1,0.7764880952380953,svm,accuracy
+2,0.7886904761904762,decision tree,accuracy
+3,0.8318452380952381,KNN,accuracy
+4,0.7764880952380953,random forest,accuracy
+5,0.6958333333333333,perceptron,accuracy
+6,0.7642857142857142,MLPClassifier,accuracy
+7,0.808770037832538,logisticregression,precision
+8,0.8177944624819624,svm,precision
+9,0.8041215959965959,decision tree,precision
+10,0.8359424603174603,KNN,precision
+11,0.7925550144300145,random forest,precision
+12,0.7355304913340628,perceptron,precision
+13,0.779718475968476,MLPClassifier,precision
+14,0.793228612782052,logisticregression,f1-score
+15,0.7682338494838494,svm,f1-score
+16,0.7835983874558423,decision tree,f1-score
+17,0.8314840130629604,KNN,f1-score
+18,0.7731552346338993,random forest,f1-score
+19,0.6853373267543243,perceptron,f1-score
+20,0.7614266408144286,MLPClassifier,f1-score
